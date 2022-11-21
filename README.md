@@ -57,7 +57,8 @@ I have 💌 for Software development and how mathematics and data plays a strong
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Python-informational?style=flat&logo=Python&color=F7DF1E)
 ![](https://img.shields.io/badge/Tools-C-informational?style=flat&logo=C&color=61DAFB)
-![](https://img.shields.io/badge/Tools-C++ -informational?style=flat&logo=C++&color=61DAFB)
+![](https://img.shields.io/badge/Tools-C++-informational?style=flat&logo=C++&color=61DAFB)
+![](https://img.shields.io/badge/Tools-Salesforce-informational?style=flat&logo=Salesforce&color=61DAFB)
 </br>
 
 
