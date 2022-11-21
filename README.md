@@ -1,4 +1,4 @@
-### Hi there <img src="https://tenor.com/view/emoji-emoticon-hello-hi-waving-gif-15744372" width="30px">,I am Ceteris90!
+### Hi there :wave: <img src="https://tenor.com/view/emoji-emoticon-hello-hi-waving-gif-15744372" width="30px">,I am Ceteris90!
 
 <!--
 **Ceteris90/Ceteris90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
