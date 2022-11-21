@@ -61,6 +61,7 @@ I have 💌 for Software development and how mathematics and data plays a strong
 
 </br>
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📈 GitHub Stats 
