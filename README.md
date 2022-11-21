@@ -1,4 +1,3 @@
-### Hi there 👋,I am Ceteris90!
 
 <!--
 **Ceteris90/Ceteris90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
