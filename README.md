@@ -37,18 +37,15 @@ I have 💌 for Software development and how mathematics and data plays a strong
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Modeling E
+- My building a blog
+- My HTML and CSS Skills 
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- 📱 React
+- Salesforce app development
+- Java Script
 
 ## 💼 Technical Skills
 
