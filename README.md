@@ -55,7 +55,7 @@ I have 💌 for Software development and how mathematics and data plays a strong
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-Python-informational?style=flat&logo=Python&color=181717)
+![](https://img.shields.io/badge/Tools-Python-informational?style=flat&logo=Python&color=F7DF1E)
 </br>
 
 
