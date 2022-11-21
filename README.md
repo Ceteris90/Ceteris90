@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm Ceteris90 👋
 </h3>
 
 <h2 align="center">
