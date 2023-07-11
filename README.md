@@ -38,8 +38,6 @@ I have 💌 for Software development and how mathematics and data plays a strong
 
 ## 🔭 I'm currently working on
 
-- Modeling E
-- My building a blog
 - My HTML and CSS Skills 
 
 ## 🌱 I'm currently learning
